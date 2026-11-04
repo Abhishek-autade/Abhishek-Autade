@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋
 
-<!--
-**Abhishek-autade/Abhishek-Autade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | B.Tech Computer Science, MGM University (2022 – 2028)
 
-Here are some ideas to get you started:
+I build web apps with the MERN stack, practice DSA in Java, and I'm
+interested in AI/ML. I'm open to full stack and software developer roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#🛠 Tech Stack
+Languages: JavaScript, Java, Python, SQL
+Web: React, Node.js, Express, MongoDB, HTML, CSS
+Tools: Git, GitHub
+
+## 🚀 Featured Projects
+-[Weather Dashboard] – Live weather app using Node/Express and
+  the OpenWeatherMap API. [Live demo](link)
+-[LeetCode DSA]() – Problems solved in Java, organised by topic.
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/abhishekautade-907139313) · abhishekautade11@gmail.com
